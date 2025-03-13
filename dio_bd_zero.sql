@@ -1,4 +1,4 @@
-drop database bd_zero;
+-- drop database bd_zero;
 create database bd_zero;
 use bd_zero;
 
